@@ -20,7 +20,7 @@ h1 {
     font-weight: bold;
 }
 h2 {
-    line-height: 2;
+    line-height: 1;
     color: rgb(54, 54, 54);
     margin-left: 200px;
     text-align: left;
@@ -29,7 +29,7 @@ h2 {
 
 
 h3 {
-    line-height: 2; /* Adjust this value to change the spacing */
+    line-height:2; /* Adjust this value to change the spacing */
 
     color: rgb(54, 54, 54);
     margin-left: 300px;
