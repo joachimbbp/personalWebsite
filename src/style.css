@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+h2 {
+    color: rgb(207, 146, 15);
+    margin-left: 20px;
+    text-align: left;
+    font-family: 'Courier New', monospace;
+}
